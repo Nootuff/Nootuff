@@ -1,4 +1,6 @@
-### Testing, does this work? 🤔 
+### Hi! I'm Adam, 
+
+##I'm a self-taught, Full Stack Web Developer currently looking for new career opportunities. I'm experienced in working with HTML, CSS, JavaScript, React, jQuery, Node.js, Git & GitHub, Mongoose & MongoDb, Express & EJS, Sass, Bootstrap 5 and Material-UI. I love to code, encounter interesting problems & come up with new solutions. I am dedicated to a lifetime of learning and improvement and would love to connect with you.
 
 <!--
 **Nootuff/Nootuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
