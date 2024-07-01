@@ -1,6 +1,9 @@
 ## Hi! I'm Adam, 
 
-I'm a self-taught, Full Stack Web Developer currently working for an ecommerce agency in the UK. I'm experienced in working with HTML, CSS, JavaScript, React, jQuery, Node.js, Git & GitHub, Mongoose & MongoDb, Express & EJS, Sass, Bootstrap 5 and Material-UI. I love to code, encounter interesting problems & come up with new solutions. I am dedicated to a lifetime of learning and improvement and would love to connect with you.
+I'm a Front-End Web Developer currently working for an award-winning ecommerce agency in London. I have 2 years of experience building user-friendly, cross-browser, SEO-optimized websites and working with HTML, CSS/SASS, JavaScript, jQuery, React, Node.js and RESTful APIs.
+
+I love to code, encounter new challenges and build new solutions. I am dedicated to a lifetime of learning and improvement and I would love to connect with you.
+
 
 <!--
 **Nootuff/Nootuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
